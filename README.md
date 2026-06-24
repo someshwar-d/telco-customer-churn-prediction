@@ -150,7 +150,7 @@ python -m notebook
 ## 👤 Author
 
 **Someshwar D**  
-Final Year B.Tech CSE Student  
+Final Year B.Tech AIDS Student  
 Dhanalakshmi Srinivasan University, Tamil Nadu  
 GitHub: [@someshwar-d](https://github.com/someshwar-d)
 
