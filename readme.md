@@ -153,6 +153,7 @@ python -m notebook
 Final Year B.Tech CSE Student  
 Dhanalakshmi Srinivasan University, Tamil Nadu  
 GitHub: [@someshwar-d](https://github.com/someshwar-d)
+---
 Linkedin: [Somesh dhina](www.linkedin.com/in/somesh-dhina-873b373aa)
 
 ---
