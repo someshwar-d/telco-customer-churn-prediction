@@ -1,16 +1,16 @@
-# 📉 Telco Customer Churn Prediction
+# Telco Customer Churn Prediction
 
 A machine learning project to predict customer churn for a telecommunications company using the IBM Telco Customer Churn dataset.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Customer churn — when a customer stops using a company's service — is one of the most critical challenges in the telecom industry. Retaining existing customers is significantly more cost-effective than acquiring new ones. This project builds and compares multiple machine learning models to predict which customers are most likely to churn, enabling businesses to take proactive retention action.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: IBM Telco Customer Churn Dataset (Extended 33-column variant)
 - **Records**: 7,043 customers
@@ -25,7 +25,7 @@ Key columns include:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -40,7 +40,7 @@ Key columns include:
 
 ---
 
-## 🔍 Project Pipeline
+## Project Pipeline
 
 ### 1. Data Cleaning
 - Fixed `Total Charges` column (blank strings → 0 for zero-tenure customers)
@@ -84,7 +84,7 @@ Key findings:
 
 ---
 
-## 🏆 Top 10 Features by Importance (Random Forest)
+##  Top 10 Features by Importance (Random Forest)
 
 | Rank | Feature | Importance |
 |------|---------|-----------|
@@ -101,7 +101,7 @@ Key findings:
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 - Customers on **month-to-month contracts** are the highest-risk group — offering incentives to switch to annual plans could significantly reduce churn
 - **New customers in their first few months** are most vulnerable — targeted onboarding and early engagement programs are recommended
@@ -124,7 +124,7 @@ telco-customer-churn-prediction/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
 ```bash
@@ -147,15 +147,16 @@ python -m notebook
 
 ---
 
-## 👤 Author
+##  Author
 
 **Someshwar D**  
 Final Year B.Tech CSE Student  
 Dhanalakshmi Srinivasan University, Tamil Nadu  
 GitHub: [@someshwar-d](https://github.com/someshwar-d)
-
+<a href="https://www.linkedin.com/in/(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/somesh-dhina-873b373aa)">
+<img 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
