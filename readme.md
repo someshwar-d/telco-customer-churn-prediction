@@ -154,7 +154,7 @@ Final Year B.Tech CSE Student
 Dhanalakshmi Srinivasan University, Tamil Nadu  
 GitHub: [@someshwar-d](https://github.com/someshwar-d)
 <a href="https://www.linkedin.com/in/(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/somesh-dhina-873b373aa)">
-<img 
+
 ---
 
 ##  License
